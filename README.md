@@ -1,1 +1,1 @@
-Automação em Python com pyautogui. Consiste em copiar uma frase aleatória de um determinado site e enviar para algum colega/amigo. A frase do dia é encaminhado por gmail para qualquer dominio que opcional.
+Automação em Python com pyautogui. Consiste em copiar uma frase aleatória de um determinado site e enviar para algum colega/amigo. A frase do dia é encaminhado por gmail para qualquer dominio de maneira opcional.
