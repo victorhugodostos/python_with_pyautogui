@@ -1,2 +1,1 @@
-# Python
-Projetos em Python.
+Automação em Python com pyautogui. Consiste em enviar uma frase aleatória de um determinado site e enviar para algum colega/amigo. A frase do dia é encaminhado por gmail para qualquer dominio que opcional.
